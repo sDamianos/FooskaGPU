@@ -1,4 +1,5 @@
 #include "strdata.h"
+
 void assign_device_to_rank() {
 
 	int global_rank, local_rank, num_devices;
